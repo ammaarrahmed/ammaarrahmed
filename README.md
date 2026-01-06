@@ -67,5 +67,6 @@ alt="LinkedIn" height="30" width="40" />
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaarrahmed&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaarrahmed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 </p>
