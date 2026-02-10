@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammaar Ahmed</h1>
-<h3 align="center"
-Computer Science Undergraduate • Robotics 🤖 • Machine Learning 🧠 • Computer Vision 
-</h3>
+<h3 align="center" Computer Science Undergraduate • Robotics 🤖 • Machine Learning 🧠 • Computer Vision </h3>
 
 <p align="center">
 Building intelligent systems, scalable apps, and performance-driven software.
