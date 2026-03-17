@@ -1,7 +1,7 @@
-<h3 align="center">Computer Science Undergraduate • Robotics 🤖 • Machine Learning 🧠 • Computer Vision</h3>
+<h3 align="center">Computer Science Undergraduate • Robotics • Computer Vision</h3>
 
 <p align="center">
-  Building intelligent systems, scalable apps, and performance-driven software.
+  Building intelligent systems,Autonomous agents and contributing to Open Source Software.
 </p>
 
 <h3 align="center">🌐 Connect with me</h3>
