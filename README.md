@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  CONTRIBUTE to my open source project: 
+  contribute to my open source project here: 
   <a href="https://github.com/FlowOperation/Campus-Connect">Campus-Connect</a>
 </h3>
 
