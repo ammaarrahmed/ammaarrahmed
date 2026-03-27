@@ -1,7 +1,7 @@
 <h3 align="center">Computer Science Undergraduate • Robotics • Computer Vision</h3>
 
 <p align="center">
-  Building intelligent systems, autonomous agents, and contributing to Open Source Software.
+  Building firmware, autonomous robots, and contributing to Open Source Software.
 </p>
 
 <h3 align="center">
