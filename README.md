@@ -1,7 +1,7 @@
-<h3 align="center">Robotics Undergraduate • Robotics • Computer Vision • Embedded Systems</h3>
+<h3 align="center">Robotics Undergraduate • Computer Vision • Embedded Systems</h3>
 
 <p align="center">
-  Building firmware, autonomous robots, and contributing to Open Source Software.
+  Building firmware, autonomous robots, and contributing to Open Source.
 </p>
 
 <h3 align="center">
