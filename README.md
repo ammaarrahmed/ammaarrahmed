@@ -1,11 +1,4 @@
-<h3 align="center">Robotics Undergraduate • Computer Vision • Embedded Systems</h3>
-
-<p align="center">
-  Building firmware, autonomous robots, and contributing to Open Source.
-</p>
-
-<h3 align="center">
-  contribute to my open source project
-  <a href="https://github.com/FlowOperation/Campus-Connect">Campus-Connect</a>
-</h3>
+Robotics Undergraduate at [FAST NUCES](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitxt2E3dCTAxVz2AIHHQY-H-0QFnoECCQQAQ&url=https%3A%2F%2Fwww.nu.edu.pk%2F&usg=AOvVaw0VE0a7UVe2b9J_5Z2kJnNx&opi=89978449) \
+Passionate for Robotics , Computer Vision and Embedded Systems\
+Looking for colloborative research opportunities.
 
