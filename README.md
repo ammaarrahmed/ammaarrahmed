@@ -1,5 +1,3 @@
-Software Engineer at [Elite Chauffeurs LTD , Dublin , Ireland](https://elitechauffeurs.ie/)
-
 Robotics Undergraduate at [FAST NUCES](https://nu.edu.pk) 
 
 [GSoC](https://summerofcode.withgoogle.com/) 2026 Contributor at [OSRF](https://www.openrobotics.org/) For [ROS2](https://www.ros.org/) : [Improve Performance Regression Visibility in RCLPY](https://summerofcode.withgoogle.com/programs/2026/projects/XzCZfpPX)
